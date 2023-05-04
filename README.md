@@ -9,3 +9,5 @@ Script does following steps:
 5.	Wait until refresh is finished.
 6.	Hit the Save button. 
 7.	Close PB Desktop
+
+If you download the demo, put all files into one folder and you should be able to run ps script and it will create new Demo_New.pbix file and refresh it. Demo file is connected to website with time so you should see in new file different time then in the old one without refresh.
